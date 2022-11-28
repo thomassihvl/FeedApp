@@ -1,0 +1,8 @@
+node_modules
+frontend/package-lock.json
+package-lock.json
+.DS_Store
+backend/.idea
+.idea
+backend/target
+src/main/resources/application.properties
